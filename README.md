@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL, PySpark, Hive and Docker Containers
 - 💞️ I’m working as Data Scientist in Inndata Analytics at Visakhapatnam.
 - 📫 I'm currently working on two projects. One is Time Series Analysis on Chocolate Industry related data and another one is Deep Learning related project.
-- Working on the recent advancements in Generative-AI, LLMs and ChatGPT.
+- ✨ Working on the recent advancements in Generative-AI, LLMs and ChatGPT.
 
 <!---
 Pradeep-Vanapalli/Pradeep-Vanapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
